@@ -1,7 +1,7 @@
 # Hi, I'm Emelie 👋
 
 I'm a fullstack developer based in Sweden.  
-I work all across the stack with a variety of programming languages and techniques. 
+I work all across the stack with a variety of programming languages and techniques.  
 
 
 ## 🔹 Connect With Me
