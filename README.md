@@ -8,4 +8,5 @@ I work all across the stack with a variety of programming languages and techniqu
 - **Portfolio:** [(https://emmyme.vercel.app/)]  
 - **LinkedIn:** [www.linkedin.com/in/emelie-berg-3794b8258]  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmyme&layout=compact)
 
