@@ -5,7 +5,7 @@ I work all across the stack with a variety of programming languages and techniqu
 
 ### My GitHub Contributions
 
-![Cotton Candy Clouds](https://cute-heatmap.vercel.app/api/heatmap?user=Emmyme&color=cottoncandy&shape=sparkles)
+![Cotton Candy Clouds](https://cute-heatmap.vercel.app/api/heatmap?user=Emmyme&color=berry&shape=sparkles)
 
 *Check out my cute heatmap project [here](https://github.com/Emmyme/cute-heatmap)*
 
