@@ -3,7 +3,7 @@
 I'm a fullstack developer based in Sweden.  
 I work all across the stack with a variety of programming languages and techniques.  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmyme&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmyme&hide_progress=true&theme=ambient_gradient)
 
 ### My GitHub Contributions
 
